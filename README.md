@@ -3,6 +3,9 @@
 # Architecture diagram
 ![Architecture_diagram_M4(1)](https://github.com/GatherSpot/MobileApp/assets/93264382/fac09be9-7e15-415d-acae-ed48fae1212e)
 
+# App presentation video
+https://youtu.be/zoIQfxgtaKk?si=1jMQoqHk9WT3_5rW
+
 
 # App Blurb
 
